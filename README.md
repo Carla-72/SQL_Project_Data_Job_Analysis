@@ -4,7 +4,7 @@ Focusing on Data Analyst roles, this project explores top-paying jobs, in-demand
 The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective.
 The data used for this project comes from [Luke Barousse's SQL Course](/https://lukebarousse.com/sql). It has detailed insights on job titles, salaries, locations, and essential skills.
 
-### The questions I wanted to answer through this project of SQL queries are:
+### The questions I want to answer through this project of SQL queries are:
 1. What are the top-paying data analyst jobs?
 2. What skills are required for the top-paying data analyst roles?
 3. What are the most in-demand skills for data analysts?
