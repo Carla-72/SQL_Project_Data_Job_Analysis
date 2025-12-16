@@ -1,7 +1,7 @@
 # Introduction
 Focusing on Data Analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 # Background
-The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective.
+The motivation behind this project stemmed from my desire to understand the data analyst job market better. I aimed to discover which skills are paid the most and in demand, supporting job seekers in a more targeted and effective manner.
 The data used for this project comes from [Luke Barousse's SQL Course](/https://lukebarousse.com/sql). It has detailed insights on job titles, salaries, locations, and essential skills.
 
 ### The questions I want to answer through this project of SQL queries are:
